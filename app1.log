@@ -1,28 +1,130 @@
-2025-06-10 21:56:34,159 - INFO - MobileNetV2 Embedder for Deep Sort initialised
-2025-06-10 21:56:34,159 - INFO - - gpu enabled: False
-2025-06-10 21:56:34,159 - INFO - - half precision: False
-2025-06-10 21:56:34,159 - INFO - - max batch size: 16
-2025-06-10 21:56:34,159 - INFO - - expects BGR: True
-2025-06-10 21:56:34,203 - INFO - DeepSort Tracker initialised
-2025-06-10 21:56:34,203 - INFO - - max age: 30
-2025-06-10 21:56:34,203 - INFO - - appearance threshold: 0.2
-2025-06-10 21:56:34,203 - INFO - - nms threshold: OFF
-2025-06-10 21:56:34,204 - INFO - - max num of appearance features: None
-2025-06-10 21:56:34,204 - INFO - - overriding track class : No
-2025-06-10 21:56:34,204 - INFO - - today given : No
-2025-06-10 21:56:34,204 - INFO - - in-build embedder : Yes
-2025-06-10 21:56:34,204 - INFO - - polygon detections : No
-2025-06-10 21:56:34,272 - INFO - MobileNetV2 Embedder for Deep Sort initialised
-2025-06-10 21:56:34,272 - INFO - - gpu enabled: False
-2025-06-10 21:56:34,272 - INFO - - half precision: False
-2025-06-10 21:56:34,272 - INFO - - max batch size: 16
-2025-06-10 21:56:34,272 - INFO - - expects BGR: True
-2025-06-10 21:56:34,314 - INFO - DeepSort Tracker initialised
-2025-06-10 21:56:34,315 - INFO - - max age: 30
-2025-06-10 21:56:34,315 - INFO - - appearance threshold: 0.2
-2025-06-10 21:56:34,315 - INFO - - nms threshold: OFF
-2025-06-10 21:56:34,315 - INFO - - max num of appearance features: None
-2025-06-10 21:56:34,315 - INFO - - overriding track class : No
-2025-06-10 21:56:34,315 - INFO - - today given : No
-2025-06-10 21:56:34,315 - INFO - - in-build embedder : Yes
-2025-06-10 21:56:34,315 - INFO - - polygon detections : No
+2025-06-25 13:29:40,698 - INFO - MobileNetV2 Embedder for Deep Sort initialised
+2025-06-25 13:29:40,698 - INFO - - gpu enabled: False
+2025-06-25 13:29:40,698 - INFO - - half precision: False
+2025-06-25 13:29:40,698 - INFO - - max batch size: 16
+2025-06-25 13:29:40,698 - INFO - - expects BGR: True
+2025-06-25 13:29:40,741 - INFO - DeepSort Tracker initialised
+2025-06-25 13:29:40,741 - INFO - - max age: 30
+2025-06-25 13:29:40,741 - INFO - - appearance threshold: 0.2
+2025-06-25 13:29:40,741 - INFO - - nms threshold: OFF
+2025-06-25 13:29:40,741 - INFO - - max num of appearance features: None
+2025-06-25 13:29:40,742 - INFO - - overriding track class : No
+2025-06-25 13:29:40,742 - INFO - - today given : No
+2025-06-25 13:29:40,742 - INFO - - in-build embedder : Yes
+2025-06-25 13:29:40,742 - INFO - - polygon detections : No
+2025-06-25 13:29:40,819 - INFO - MobileNetV2 Embedder for Deep Sort initialised
+2025-06-25 13:29:40,820 - INFO - - gpu enabled: False
+2025-06-25 13:29:40,820 - INFO - - half precision: False
+2025-06-25 13:29:40,820 - INFO - - max batch size: 16
+2025-06-25 13:29:40,820 - INFO - - expects BGR: True
+2025-06-25 13:29:40,856 - INFO - DeepSort Tracker initialised
+2025-06-25 13:29:40,856 - INFO - - max age: 30
+2025-06-25 13:29:40,856 - INFO - - appearance threshold: 0.2
+2025-06-25 13:29:40,856 - INFO - - nms threshold: OFF
+2025-06-25 13:29:40,856 - INFO - - max num of appearance features: None
+2025-06-25 13:29:40,856 - INFO - - overriding track class : No
+2025-06-25 13:29:40,856 - INFO - - today given : No
+2025-06-25 13:29:40,857 - INFO - - in-build embedder : Yes
+2025-06-25 13:29:40,857 - INFO - - polygon detections : No
+2025-06-25 13:29:51,185 - INFO - ## License Plate Missed: 5THASCEES7, Color: White, Bounding Box: [49, 595, 208, 644]
+2025-06-25 13:30:13,485 - INFO - ## License Plate Missed: TNOZAU2673, Color: White, Bounding Box: [360, 592, 477, 633]
+2025-06-25 13:30:15,191 - INFO - ## License Plate Missed: TNO2AU2673, Color: White, Bounding Box: [268, 613, 393, 652]
+2025-06-25 13:30:18,444 - INFO - ## License Plate Missed: TNOZAU2673, Color: White, Bounding Box: [10, 661, 165, 714]
+2025-06-25 13:38:04,872 - INFO - ## License Plate Missed: TRANRLTEAS, Color: Yellow, Bounding Box: [887, 519, 960, 543]
+2025-06-25 13:38:46,175 - INFO - ## License Plate Missed: THANBL1688, Color: Yellow, Bounding Box: [777, 508, 861, 531]
+2025-06-25 13:38:50,585 - INFO - ## License Plate Missed: TH498I1685, Color: Yellow, Bounding Box: [757, 508, 843, 531]
+2025-06-25 13:38:56,858 - INFO - ## License Plate Missed: TW49811685, Color: Yellow, Bounding Box: [729, 508, 817, 531]
+2025-06-25 13:39:01,893 - INFO - ## License Plate Missed: THA9BL1685, Color: Yellow, Bounding Box: [708, 507, 796, 531]
+2025-06-25 13:39:06,009 - INFO - ## License Plate Missed: WWAOBI168S, Color: Yellow, Bounding Box: [684, 507, 776, 532]
+2025-06-25 13:39:24,897 - INFO - ## License Plate Detected: TN49BJ1685, Color: Yellow, Bounding Box: [564, 521, 668, 546]
+2025-06-25 13:39:29,131 - INFO - ## License Plate Detected: TH49BJ1685, Color: Yellow, Bounding Box: [532, 525, 636, 551]
+2025-06-25 13:39:31,577 - INFO - ## License Plate Missed: TNA9BJ1685, Color: Yellow, Bounding Box: [515, 526, 620, 555]
+2025-06-25 13:39:33,396 - INFO - ## License Plate Detected: TN49BJ1685, Color: Yellow, Bounding Box: [494, 527, 604, 556]
+2025-06-25 13:39:35,524 - INFO - ## License Plate Detected: TN49BJ1685, Color: Yellow, Bounding Box: [475, 529, 587, 558]
+2025-06-25 13:39:39,410 - INFO - ## License Plate Detected: TN49BJ1685, Color: Yellow, Bounding Box: [438, 534, 552, 565]
+2025-06-25 13:39:43,857 - INFO - ## License Plate Missed: 7W498J1685, Color: Yellow, Bounding Box: [393, 540, 511, 574]
+2025-06-25 13:39:45,984 - INFO - ## License Plate Detected: TN49BJ1685, Color: Yellow, Bounding Box: [370, 546, 490, 578]
+2025-06-25 13:39:48,100 - INFO - ## License Plate Detected: TN49BJ1685, Color: Yellow, Bounding Box: [346, 550, 467, 581]
+2025-06-25 13:39:52,283 - INFO - ## License Plate Detected: TN49BJ1685, Color: Yellow, Bounding Box: [293, 553, 421, 591]
+2025-06-25 13:39:58,913 - INFO - ## License Plate Detected: TN49BJ1685, Color: Yellow, Bounding Box: [208, 569, 341, 604]
+2025-06-25 13:40:00,987 - INFO - ## License Plate Detected: TN49BJ1685, Color: Yellow, Bounding Box: [176, 571, 314, 611]
+2025-06-25 13:40:03,255 - INFO - ## License Plate Detected: TN49BJ1685, Color: Yellow, Bounding Box: [139, 575, 286, 617]
+2025-06-25 13:40:05,380 - INFO - ## License Plate Missed: 1N49BJ1685, Color: Yellow, Bounding Box: [107, 579, 251, 623]
+2025-06-25 13:40:07,497 - INFO - ## License Plate Missed: 1N49BJ1685, Color: Yellow, Bounding Box: [67, 584, 219, 628]
+2025-06-25 13:40:09,588 - INFO - ## License Plate Detected: TN49BU1685, Color: Yellow, Bounding Box: [29, 593, 181, 636]
+2025-06-25 13:43:38,006 - INFO - ## License Plate Missed: TRANRLTEAS, Color: Yellow, Bounding Box: [887, 519, 960, 543]
+2025-06-25 13:44:18,636 - INFO - ## License Plate Missed: THANBL1688, Color: Yellow, Bounding Box: [777, 508, 861, 531]
+2025-06-25 13:44:23,116 - INFO - ## License Plate Missed: TH498I1685, Color: Yellow, Bounding Box: [757, 508, 843, 531]
+2025-06-25 13:44:29,665 - INFO - ## License Plate Missed: TW49811685, Color: Yellow, Bounding Box: [729, 508, 817, 531]
+2025-06-25 13:44:33,755 - INFO - ## License Plate Missed: THA9BL1685, Color: Yellow, Bounding Box: [708, 507, 796, 531]
+2025-06-25 13:44:37,957 - INFO - ## License Plate Missed: WWAOBI168S, Color: Yellow, Bounding Box: [684, 507, 776, 532]
+2025-06-25 13:44:57,097 - INFO - ## License Plate Detected: TN49BJ1685, Color: Yellow, Bounding Box: [564, 521, 668, 546]
+2025-06-25 13:45:01,341 - INFO - ## License Plate Detected: TH49BJ1685, Color: Yellow, Bounding Box: [532, 525, 636, 551]
+2025-06-25 13:45:03,472 - INFO - ## License Plate Missed: TNA9BJ1685, Color: Yellow, Bounding Box: [515, 526, 620, 555]
+2025-06-25 13:45:05,409 - INFO - ## License Plate Detected: TN49BJ1685, Color: Yellow, Bounding Box: [494, 527, 604, 556]
+2025-06-25 13:45:07,509 - INFO - ## License Plate Detected: TN49BJ1685, Color: Yellow, Bounding Box: [475, 529, 587, 558]
+2025-06-25 13:45:11,400 - INFO - ## License Plate Detected: TN49BJ1685, Color: Yellow, Bounding Box: [438, 534, 552, 565]
+2025-06-25 13:45:15,754 - INFO - ## License Plate Missed: 7W498J1685, Color: Yellow, Bounding Box: [393, 540, 511, 574]
+2025-06-25 13:45:17,776 - INFO - ## License Plate Detected: TN49BJ1685, Color: Yellow, Bounding Box: [370, 546, 490, 578]
+2025-06-25 13:45:19,884 - INFO - ## License Plate Detected: TN49BJ1685, Color: Yellow, Bounding Box: [346, 550, 467, 581]
+2025-06-25 13:45:24,380 - INFO - ## License Plate Detected: TN49BJ1685, Color: Yellow, Bounding Box: [293, 553, 421, 591]
+2025-06-25 13:45:30,719 - INFO - ## License Plate Detected: TN49BJ1685, Color: Yellow, Bounding Box: [208, 569, 341, 604]
+2025-06-25 13:45:32,785 - INFO - ## License Plate Detected: TN49BJ1685, Color: Yellow, Bounding Box: [176, 571, 314, 611]
+2025-06-25 13:45:34,941 - INFO - ## License Plate Detected: TN49BJ1685, Color: Yellow, Bounding Box: [139, 575, 286, 617]
+2025-06-25 13:45:37,207 - INFO - ## License Plate Missed: 1N49BJ1685, Color: Yellow, Bounding Box: [107, 579, 251, 623]
+2025-06-25 13:45:39,269 - INFO - ## License Plate Missed: 1N49BJ1685, Color: Yellow, Bounding Box: [67, 584, 219, 628]
+2025-06-25 13:45:41,339 - INFO - ## License Plate Detected: TN49BU1685, Color: Yellow, Bounding Box: [29, 593, 181, 636]
+2025-06-25 13:47:55,524 - INFO - MobileNetV2 Embedder for Deep Sort initialised
+2025-06-25 13:47:55,525 - INFO - - gpu enabled: False
+2025-06-25 13:47:55,525 - INFO - - half precision: False
+2025-06-25 13:47:55,525 - INFO - - max batch size: 16
+2025-06-25 13:47:55,525 - INFO - - expects BGR: True
+2025-06-25 13:47:55,564 - INFO - DeepSort Tracker initialised
+2025-06-25 13:47:55,564 - INFO - - max age: 30
+2025-06-25 13:47:55,564 - INFO - - appearance threshold: 0.2
+2025-06-25 13:47:55,564 - INFO - - nms threshold: OFF
+2025-06-25 13:47:55,564 - INFO - - max num of appearance features: None
+2025-06-25 13:47:55,564 - INFO - - overriding track class : No
+2025-06-25 13:47:55,564 - INFO - - today given : No
+2025-06-25 13:47:55,564 - INFO - - in-build embedder : Yes
+2025-06-25 13:47:55,565 - INFO - - polygon detections : No
+2025-06-25 13:47:55,638 - INFO - MobileNetV2 Embedder for Deep Sort initialised
+2025-06-25 13:47:55,638 - INFO - - gpu enabled: False
+2025-06-25 13:47:55,638 - INFO - - half precision: False
+2025-06-25 13:47:55,638 - INFO - - max batch size: 16
+2025-06-25 13:47:55,638 - INFO - - expects BGR: True
+2025-06-25 13:47:55,676 - INFO - DeepSort Tracker initialised
+2025-06-25 13:47:55,677 - INFO - - max age: 30
+2025-06-25 13:47:55,677 - INFO - - appearance threshold: 0.2
+2025-06-25 13:47:55,677 - INFO - - nms threshold: OFF
+2025-06-25 13:47:55,677 - INFO - - max num of appearance features: None
+2025-06-25 13:47:55,677 - INFO - - overriding track class : No
+2025-06-25 13:47:55,677 - INFO - - today given : No
+2025-06-25 13:47:55,677 - INFO - - in-build embedder : Yes
+2025-06-25 13:47:55,677 - INFO - - polygon detections : No
+2025-06-25 13:48:06,693 - INFO - ?? License Plate Missed: 5THASCEES7, Color: White, Bounding Box: [49, 595, 208, 644]
+2025-06-25 13:48:26,856 - INFO - ?? License Plate Missed: TNOZAU2673, Color: White, Bounding Box: [360, 592, 477, 633]
+2025-06-25 13:48:28,847 - INFO - ?? License Plate Missed: TNO2AU2673, Color: White, Bounding Box: [268, 613, 393, 652]
+2025-06-25 13:48:31,898 - INFO - ?? License Plate Missed: TNOZAU2673, Color: White, Bounding Box: [10, 661, 165, 714]
+2025-06-25 13:49:39,724 - INFO - ?? License Plate Missed: TRANRLTEAS, Color: Yellow, Bounding Box: [887, 519, 960, 543]
+2025-06-25 13:50:18,144 - INFO - ?? License Plate Missed: THANBL1688, Color: Yellow, Bounding Box: [777, 508, 861, 531]
+2025-06-25 13:50:22,475 - INFO - ?? License Plate Missed: TH498I1685, Color: Yellow, Bounding Box: [757, 508, 843, 531]
+2025-06-25 13:50:28,374 - INFO - ?? License Plate Missed: TW49811685, Color: Yellow, Bounding Box: [729, 508, 817, 531]
+2025-06-25 13:50:32,394 - INFO - ?? License Plate Missed: THA9BL1685, Color: Yellow, Bounding Box: [708, 507, 796, 531]
+2025-06-25 13:50:36,419 - INFO - ?? License Plate Missed: WWAOBI168S, Color: Yellow, Bounding Box: [684, 507, 776, 532]
+2025-06-25 13:50:54,380 - INFO - ## License Plate Detected: TN49BJ1685, Color: Yellow, Bounding Box: [564, 521, 668, 546]
+2025-06-25 13:50:58,379 - INFO - ## License Plate Detected: TH49BJ1685, Color: Yellow, Bounding Box: [532, 525, 636, 551]
+2025-06-25 13:51:00,494 - INFO - ?? License Plate Missed: TNA9BJ1685, Color: Yellow, Bounding Box: [515, 526, 620, 555]
+2025-06-25 13:51:02,239 - INFO - ## License Plate Detected: TN49BJ1685, Color: Yellow, Bounding Box: [494, 527, 604, 556]
+2025-06-25 13:51:04,198 - INFO - ## License Plate Detected: TN49BJ1685, Color: Yellow, Bounding Box: [475, 529, 587, 558]
+2025-06-25 13:51:07,848 - INFO - ## License Plate Detected: TN49BJ1685, Color: Yellow, Bounding Box: [438, 534, 552, 565]
+2025-06-25 13:51:12,240 - INFO - ?? License Plate Missed: 7W498J1685, Color: Yellow, Bounding Box: [393, 540, 511, 574]
+2025-06-25 13:51:14,255 - INFO - ## License Plate Detected: TN49BJ1685, Color: Yellow, Bounding Box: [370, 546, 490, 578]
+2025-06-25 13:51:16,412 - INFO - ## License Plate Detected: TN49BJ1685, Color: Yellow, Bounding Box: [346, 550, 467, 581]
+2025-06-25 13:51:20,662 - INFO - ## License Plate Detected: TN49BJ1685, Color: Yellow, Bounding Box: [293, 553, 421, 591]
+2025-06-25 13:51:26,496 - INFO - ## License Plate Detected: TN49BJ1685, Color: Yellow, Bounding Box: [208, 569, 341, 604]
+2025-06-25 13:51:28,398 - INFO - ## License Plate Detected: TN49BJ1685, Color: Yellow, Bounding Box: [176, 571, 314, 611]
+2025-06-25 13:51:30,505 - INFO - ## License Plate Detected: TN49BJ1685, Color: Yellow, Bounding Box: [139, 575, 286, 617]
+2025-06-25 13:51:32,522 - INFO - ?? License Plate Missed: 1N49BJ1685, Color: Yellow, Bounding Box: [107, 579, 251, 623]
+2025-06-25 13:51:34,596 - INFO - ?? License Plate Missed: 1N49BJ1685, Color: Yellow, Bounding Box: [67, 584, 219, 628]
+2025-06-25 13:51:36,584 - INFO - ## License Plate Detected: TN49BU1685, Color: Yellow, Bounding Box: [29, 593, 181, 636]
